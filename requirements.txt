@@ -1,0 +1,4 @@
+blend_modes==2.1.0
+colortrans==1.0.0
+numpy==1.24.0
+Pillow==9.4.0

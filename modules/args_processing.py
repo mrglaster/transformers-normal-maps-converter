@@ -4,10 +4,6 @@ from modules.nmaps_processor import is_supported_texture
 from modules.nmaps_processor import SUPPORTED_FORMATS
 
 
-
-
-
-
 def is_folder_mode(textures_folder):
     """Checks if program will work in the 'folder mode' """
     return textures_folder is not None
